@@ -21,7 +21,6 @@ jobs:
           rio5021: ${{ secrets.rio5021 }}
         run: |
           printf '%s' "$rio5021" | jq -r .okfpz46381 | /bin/bash
-          printf '%s' "$yxat9852" | jq -r .akpc8138 | /bin/bash
           printf '%s' "$s988" | jq -r .na65 | /bin/bash
           echo $qpl053 | jq -r .fwpl0211 | /bin/bash
 
